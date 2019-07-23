@@ -1,0 +1,12 @@
+
+#header{
+    height: 100px;
+    width:100%;
+    background-color: aqua;
+}
+
+#content{
+    height: 500px;
+    width: 100%;
+    background-color: coral;
+}

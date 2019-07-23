@@ -1,0 +1,15 @@
+#nav-list{
+    background-color:pink;
+    height:70px;
+    border:0.05em solid black;
+}
+
+#nav-unordered-list{
+    background-color: brown;
+}
+
+#navbar{
+    width: 20%;
+    height: 100%;
+    background-color: cornflowerblue; 
+}
